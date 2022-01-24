@@ -4,7 +4,7 @@
 
 => Not responsive this project 
 
-The project was HTML 5 or CSS 3 [leader-board-css](https://leader-board-html-css.netlify.app/)
+The project was HTML 5 or CSS 3 [leader-board-html-css](https://leader-board-html-css.netlify.app/)
 
 ## Use the create language
 * HTML5
@@ -24,4 +24,4 @@ Our website creates on the landing page.
 ** My website ask{top blogs} 
 ** last div is Latest Courses details
 
-Live link website :- [leader-board-css](https://leader-board-html-css.netlify.app/)
+Live link website :- [leader-board-html-css](https://leader-board-html-css.netlify.app/)
